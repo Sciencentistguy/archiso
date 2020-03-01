@@ -80,3 +80,13 @@ xfsprogs
 xl2tpd
 
 networkmanager
+
+# Custom Repo
+vim-plug
+git
+
+zsh 
+neovim
+nodejs
+yarn 
+exa

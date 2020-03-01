@@ -1,0 +1,6 @@
+[submodule "airootfs/root/.dotfiles"]
+	path = airootfs/.dotfiles
+	url = https://github.com/Sciencentistguy/dotfiles.git
+[submodule "airootfs/.dotfiles"]
+	path = airootfs/.dotfiles
+	url = https://github.com/Sciencentistguy/dotfiles.git
