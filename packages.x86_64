@@ -2,7 +2,7 @@ arch-install-scripts
 b43-fwcutter
 broadcom-wl
 btrfs-progs
-clonezilla
+#clonezilla
 crda
 darkhttpd
 ddrescue
@@ -40,7 +40,7 @@ man-pages
 mc
 mdadm
 mtools
-nano
+#nano
 ndisc6
 netctl
 nfs-utils
@@ -68,8 +68,8 @@ tcpdump
 testdisk
 usb_modeswitch
 usbutils
-vi
-vim-minimal
+#vi
+#vim-minimal
 vpnc
 wget
 wireless-regdb
@@ -83,10 +83,15 @@ networkmanager
 
 # Custom Repo
 vim-plug
-git
+git 
 
-zsh 
+cmatrix
+cowsay
+exa 
+lolcat
+neofetch
 neovim
 nodejs
+pixz
 yarn 
-exa
+zsh 

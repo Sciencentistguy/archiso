@@ -20,6 +20,9 @@ ln -s /.dotfiles/zsh-plugins /root/.zsh/plugins
 mkdir -p /root/.config/nvim
 ln -s /.dotfiles/init.vim /root/.config/nvim/init.vim
 
+mkdir -p /root/.config/neofetch
+ln -s /.dotfiles/neofetch.conf /root/.config/neofetch/config.conf
+
 nvim +PlugInstall
 
 chmod 700 /root
