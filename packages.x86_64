@@ -83,15 +83,17 @@ networkmanager
 
 # Custom Repo
 vim-plug
-git 
 
 cmatrix
 cowsay
 exa 
+git 
+gnome
 lolcat
 neofetch
 neovim
 nodejs
 pixz
+xorg-xinit
 yarn 
 zsh 
