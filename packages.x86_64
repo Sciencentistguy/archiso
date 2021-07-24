@@ -126,3 +126,6 @@ llvm
 rust
 git
 neovim
+#starship
+exa
+ripgrep

@@ -1,1 +1,1 @@
-aliases.zsh
+../.dotfiles/aliases.zsh

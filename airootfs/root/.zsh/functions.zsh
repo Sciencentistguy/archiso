@@ -1,1 +1,1 @@
-functions.zsh
+../.dotfiles/functions.zsh
