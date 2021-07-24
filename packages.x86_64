@@ -118,3 +118,11 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+
+base-devel
+
+clang
+llvm
+rust
+git
+neovim

@@ -1,0 +1,3 @@
+[submodule "airootfs/root/.dotfiles"]
+	path = airootfs/root/.dotfiles
+	url = https://github.com/Sciencentistguy/dotfiles
